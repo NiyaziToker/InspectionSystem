@@ -37,7 +37,9 @@ Typical operating distance in Read/Write mode up to 50 mm depending on the anten
 Setup:
 1.	Arduino IDE -> File -> Preferences
 2.	The link given below were added to Additional Boards Manager URLs.
+'''
     http://arduino.esp8266.com/stable/package_esp8266com_index.json
+'''
 3.	Arduino IDE -> Settings -> Boards -> Board Manager
 4.	Esp8266 Boards and libraries were installed.
 5.  Setup the MFRC522 library with link given below.
