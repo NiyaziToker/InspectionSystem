@@ -7,23 +7,23 @@ When students come to the class, s/he scans his/her card to card reader that is 
 When lecturer came the class, s/he will see students that in class. 
 Lecturer can also see lists after the lecture that is saved in the database.
 	
-Block Diagram:
 
-  Student Card (13.56 MHz RFID Card)
-      |
-      v
-  Card Reader (RC522)
-      |
-      v
-  Wifi Module (NodeMCU Esp8266 development board)
-      |
-      v
-  Database
-      |
-      v
-  Website
-   
-   
+ Block Diagram:
+
+ 	Student Card (13.56 MHz RFID Card)
+	  	|
+  		v 
+ 	Card Reader (RC522)
+  		|
+  		v 
+ 	Wifi Module (NodeMCU Esp8266 development board)
+  		|
+ 	 	v
+ 	Database 
+  		|
+  		v 
+ 	Website
+
 Hardware:
 
 NodeMCU: NodeMCU is ESP8266 development board that contains USB-TTL converter and voltage regulator. 
